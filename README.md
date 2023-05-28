@@ -10,4 +10,4 @@
 
 * comando git push
 * *comando git pull
-* comando gi fetch
+* comando git fetch
